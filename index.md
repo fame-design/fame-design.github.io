@@ -1,5 +1,3 @@
-# readme
-
 ## Worum geht es hier?
 Fame Design erstellt für Sie individuell Homepages, Flyer, Plakate und Visitenkarten im Corporate Design.
 Wir passen uns Ihren Bedürfnissen an.
