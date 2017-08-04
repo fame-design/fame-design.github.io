@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Fame Design
 
-You can use the [editor on GitHub](https://github.com/fame-design/fame-design.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Worum geht es hier?
+Fame Design erstellt für Sie individuell Homepages, Flyer, Plakate und Visitenkarten im Corporate Design.
+Wir passen uns Ihren Bedürfnissen an.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Unsere Leistungen
+Wir konzipieren und gestalten für Sie Homepages, programmieren individuelle PHP Lösungen und entwerfen für Sie hochwertige und individuelle Designs.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fame-design/fame-design.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Unsere Stärken
+Wir halten wenig von überladenen Homepages mit übertriebenen Effekten. Unsere Seiten werden daher klar strukturiert und übersichtlich gehalten. Die Besucher werden sich auf Ihrer Seite schnell zurechtfinden und können sich auf den Inhalt konzentrieren. Bedienbarkeit und Übersichtlichkeit stehen bei uns an erster Stelle. Dabei achten wir auch auf eine gute Positionierung bei Suchmaschinen.
