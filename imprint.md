@@ -37,7 +37,7 @@ permalink: /imprint/
 <p>Slack:</p>
 </td>
 <td>
-<p><a href="https://join.slack.com/t/fame-design/shared_invite/enQtMjU1ODM2MzIwMzY5LTg2NjczNWVkMDRmZDQ2NTEyNTcwYjI1MzYwMzI2OWQwOTQwNWQ4YmU0MmM3YWUwNWVhN2JiMGVkZTlkOTNjOWE">https://join.slack.com/t/fame-design/shared_invite/enQtMjU1ODM2MzIwMzY5LTg2NjczNWVkMDRmZDQ2NTEyNTcwYjI1MzYwMzI2OWQwOTQwNWQ4YmU0MmM3YWUwNWVhN2JiMGVkZTlkOTNjOWE</a></p>
+<p><a href="http://tinyurl.com/fame-design-slack">http://tinyurl.com/fame-design-slack</a></p>
 </td>
 </tr>
 </tbody>
