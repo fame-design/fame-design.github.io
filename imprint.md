@@ -34,10 +34,10 @@ permalink: /imprint/
 </tr>
 <tr>
 <td>
-<p>Discord:</p>
+<p>Slack:</p>
 </td>
 <td>
-<p><a href="https://discord.gg/5uGmZQv">https://discord.gg/5uGmZQv</a></p>
+<p><a href="https://join.slack.com/t/fame-design/shared_invite/enQtMjU1ODM2MzIwMzY5LTg2NjczNWVkMDRmZDQ2NTEyNTcwYjI1MzYwMzI2OWQwOTQwNWQ4YmU0MmM3YWUwNWVhN2JiMGVkZTlkOTNjOWE">https://join.slack.com/t/fame-design/shared_invite/enQtMjU1ODM2MzIwMzY5LTg2NjczNWVkMDRmZDQ2NTEyNTcwYjI1MzYwMzI2OWQwOTQwNWQ4YmU0MmM3YWUwNWVhN2JiMGVkZTlkOTNjOWE</a></p>
 </td>
 </tr>
 </tbody>
