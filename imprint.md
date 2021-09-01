@@ -34,10 +34,10 @@ permalink: /imprint/
 </tr>
 <tr>
 <td>
-<p>Slack:</p>
+<p>Discord:</p>
 </td>
 <td>
-<p><a href="http://tinyurl.com/fame-design-slack">http://tinyurl.com/fame-design-slack</a></p>
+<p><a href="https://discord.gg/eH9AFUqcv2">https://discord.gg/eH9AFUqcv2</a></p>
 </td>
 </tr>
 </tbody>
